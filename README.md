@@ -1,4 +1,7 @@
 # BlogSite
-Blog made with:  Node.js, Express &amp; MongoDB
+```
+nodemon server.js
+```
+Markdown blog made with: Node.js, Express and MongoDB
 
-* npm init -y
+
